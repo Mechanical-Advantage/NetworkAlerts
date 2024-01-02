@@ -1,5 +1,5 @@
 # Shuffleboard Network Alerts Plugin
-This plugin provides a widget for displaying persistent alerts sent from robot code. See the robot-side implementation [here](https://github.com/Mechanical-Advantage/RobotCode2022/blob/main/src/main/java/frc/robot/util/Alert.java).
+This plugin provides a widget for displaying persistent alerts sent from robot code. See the robot-side implementation [here](https://github.com/Mechanical-Advantage/RobotCode2023/blob/main/src/main/java/frc/robot/util/Alert.java).
 
 <img src="https://raw.githubusercontent.com/Mechanical-Advantage/NetworkAlerts/main/example.png" width="400px">
 
